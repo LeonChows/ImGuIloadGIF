@@ -1,0 +1,2 @@
+# ImGuIloadGIF
+使用imgui 配合 opencv以及freeimage来加载GIF图片 具体实现可以查看源代码里面的注释
