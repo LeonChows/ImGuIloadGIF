@@ -1,0 +1,1 @@
+ .\OpencvDemo.exe .\2056510.jpg 
